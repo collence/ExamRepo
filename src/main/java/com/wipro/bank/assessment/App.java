@@ -44,6 +44,7 @@ if(a.getBalance()==amount){
 accounts2.add(a);
 
 }
+else{System.out.println("You can not withdraw more than what is in the account");}
 }
 return accounts2;
 
