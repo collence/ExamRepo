@@ -1,7 +1,7 @@
 package com.wipro.bank.entity;
 
 public class Account {
-       
+       //collence Ngele
        private int accountID;
        private String userName;
        private double balance;
